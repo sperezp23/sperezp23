@@ -33,6 +33,6 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&theme=radical)
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="santiagoperezpuerta" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/santiagoperezpuerta?trk=profile-badge">Santiago Pérez Puerta</a></div>
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante por aquí. No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia. 😊
