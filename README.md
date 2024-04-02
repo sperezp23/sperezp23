@@ -1,5 +1,3 @@
-# sperezp23
-
 # ¡Hola! 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy Santiago Pérez Puerta, un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás algunos de mis proyectos, contribuciones y exploraciones en el vasto mundo de la programación.
@@ -10,7 +8,6 @@
 - 💼 Trabajo como [tu posición actual] en [tu empresa].
 - 💬 Estoy siempre dispuesto a aprender y colaborar en proyectos interesantes.
 - 📫 Puedes contactarme en [tu correo electrónico] para cualquier consulta o colaboración.
-- 😄 Pronombres: [Ejemplo: él/ella/elle]
 
 ## Tecnologías
 
@@ -33,6 +30,6 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 ## Estadísticas de GitHub
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="santiagoperezpuerta" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/santiagoperezpuerta?trk=profile-badge">Santiago Pérez Puerta</a></div>
+
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante por aquí. No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia. 😊
