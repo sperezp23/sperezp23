@@ -2,6 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy Santiago Pérez Puerta, un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás algunos de mis proyectos, contribuciones y exploraciones en el vasto mundo de la programación.
 ---
+---
 
 ## Sobre mí
 
